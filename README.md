@@ -3,6 +3,8 @@
 Varun Ravi Kumar, Sandesh Athni Hiremath, Markus Bach, Stefan Milz,
 Christian Witt, Clément Pinard, Senthil Yogamani and Patrick Mäder
 
+## Accepted to ICRA 2020
+
 ## Abstract
  Fisheye cameras are commonly used in applications like autonomous driving and surveillance to provide a
 large field of view (> 180◦). However, they come at the cost of strong non-linear distortions which require more complex
