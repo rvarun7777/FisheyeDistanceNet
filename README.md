@@ -26,4 +26,7 @@ dataset and obtained state-of-the-art results comparable to
 other self-supervised monocular methods. Qualitative results on
 an unseen fisheye video demonstrate impressive performance.
 
+## Method
+![Selection_137](https://user-images.githubusercontent.com/21110541/76306079-928d4580-62c6-11ea-8c3d-ff74cfb68db9.png)
+
 [Youtube: FisheyeDistanceNet](https://www.youtube.com/watch?v=Sgq1WzoOmXg)
