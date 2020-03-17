@@ -1,6 +1,6 @@
 # FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation using Monocular Fisheye Camera for Autonomous Driving
 
-Varun Ravi Kumar, Sandesh Athni Hiremath, Markus Bach, Stefan Milz, Christian Witt, Clément Pinard, Senthil Yogamani and Patrick Mäder
+**Varun Ravi Kumar**, Sandesh Athni Hiremath, Markus Bach, Stefan Milz, Christian Witt, Clément Pinard, Senthil Yogamani and Patrick Mäder
 
 ## [Accepted to ICRA 2020](https://arxiv.org/abs/1910.04076)
 
