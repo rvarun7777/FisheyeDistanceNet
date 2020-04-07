@@ -1,8 +1,11 @@
-# FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation using Monocular Fisheye Camera for Autonomous Driving
+# [FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation using Monocular Fisheye Camera for Autonomous Driving](https://sites.google.com/view/fisheyedistancenet/)
+
 
 **Varun Ravi Kumar**, Sandesh Athni Hiremath, Markus Bach, Stefan Milz, Christian Witt, Clément Pinard, Senthil Yogamani and Patrick Mäder
 
 ## [Accepted to ICRA 2020](https://arxiv.org/abs/1910.04076)
+
+### [FisheyeDistanceNet WebSite](https://sites.google.com/view/fisheyedistancenet/)
 
 ## Abstract
  Fisheye cameras are commonly used in applications like autonomous driving and surveillance to provide a large field of view (> 180◦). However, they come at the cost of strong non-linear distortions which require more complex algorithms. In this paper, we explore Euclidean distance estimation on fisheye cameras for automotive scenes. Obtaining accurate and dense depth supervision is difficult in practice, but self-supervised learning approaches show promising results and could potentially overcome the problem. We present a novel self-supervised scale-aware framework for learning Euclidean distance and ego-motion from raw monocular fisheye videos without applying rectification. While it is possible to perform piece-wise linear approximation of fisheye projection surface and apply standard rectilinear models, it has its own set of issues like resampling distortion and discontinuities in transition regions. To encourage further research in this area, we will release our dataset as part of the WoodScape project. We further evaluated the proposed algorithm on the KITTI dataset and obtained state-of-the-art results comparable to other self-supervised monocular methods. Qualitative results on an unseen fisheye video demonstrate impressive performance.
